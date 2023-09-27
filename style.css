@@ -6,13 +6,13 @@ html {
 
 h1 {
     text-align: center;
-    color: white;
+    color: blue;
+    margin: 30px;
 }
 
-
-/* li {
-    list-style-type: georgian;
-} */
+li {
+    padding: 10px;
+}
 
 img {
     display: block;
